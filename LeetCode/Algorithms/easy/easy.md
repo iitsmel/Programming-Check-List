@@ -49,3 +49,13 @@ No. --> Leet Code website
 
 [No.1389](https://leetcode.com/problems/create-target-array-in-the-given-order) Create Target Array in the Given Order
 <br>
+
+[No.1486](https://leetcode.com/problems/xor-operation-in-an-array) XOR Operation in an Array
+<br>
+
+[No.1221](https://leetcode.com/problems/split-a-string-in-balanced-strings) Split a String in Balanced Strings
+<br>
+
+[No.1684](https://leetcode.com/problems/count-the-number-of-consistent-strings) Count the Number of Consistent Strings
+<br>
+
