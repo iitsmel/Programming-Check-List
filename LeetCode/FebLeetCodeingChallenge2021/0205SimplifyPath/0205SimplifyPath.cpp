@@ -1,3 +1,8 @@
+# include <string>
+# include <stack>
+using std::string;
+using std::stack;
+
 class Solution {
 public:
     string simplifyPath(string path) {
